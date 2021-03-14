@@ -43,7 +43,7 @@ References: https://docs.microsoft.com/en-us/power-bi/service-manage-app-workspa
 ### 4. Your organization has a Microsoft Office 365 subscription. 
 When the users attempt to access the Power BI Service, they receive the error message shown in the exhibit. (Click the Exhibit button.) 
  
-![alt text](.\img\Question4_message.png)
+![alt text](/img/Question4_message.png)
 
 
 You need to ensure that all the users can access the Power BI service. 
@@ -187,7 +187,7 @@ Does this meet the goal?
 
 **You plan to embed multiple visualizations in a public website. Your Power BI infrastructure contains the visualizations configured as shown in the following table.**
 
-![alt text](.\img\Q11_visualImage.png)
+![alt text](/img/Q11_visualImage.png)
 
 ### Q.11 Which two visualizations can you embed into the website? Each correct answer presents a complete solution.
 
@@ -256,7 +256,7 @@ References: https://docs.microsoft.com/en-us/power-bi/publisher-for-excel
 
 You are consuming the following tables.
 
-![alt text](.\img\Q14_table.png)
+![alt text](/img/Q14_table.png)
 
 **Date[Date] is in the mm/dd/yyyy format.** 
 
@@ -270,7 +270,7 @@ You create the report shown in the exhibit.
 
 (Click the Exhibit button.)
 
-![alt text](.\img\Q14_Graph.png)
+![alt text](/img/Q14_Graph.png)
 
 You need to ensure that the months appear in the order of the calendar.
 
@@ -292,7 +292,7 @@ References: http://ppmworks.com/sorting-month-names-chronologically-in-microsoft
 
 ## Scenario: You plan to create a Power BI report. You have the schema model shown in the exhibit.
 
-![alt text](.\img\Q15_Schema.png)
+![alt text](/img/Q15_Schema.png)
 
 The model has the following relationships:
 
@@ -509,7 +509,7 @@ References:
 
 ## Scenario: You have a table named Sales that contains sales data for the United States. A sample of the data in Sales is shown in the following table.
 
-![alt text](.\img\Q23_table.png)
+![alt text](/img/Q23_table.png)
 
 ### Q.23 When you attempt to create a map that shows SalesAmount by Zone, you discover that the map shows a bubble based on cities instead of states. You need to ensure that the map shows bubbles based on states.
 
@@ -531,7 +531,7 @@ References: https://docs.microsoft.com/en-us/power-bi/guided-learning/visualizat
 
 ## Scenario: You have two tables named CustomerVisits and Date in a Power BI model. You create a measure to calculate the number of customer visits. You use the measure in the report shown in the exhibit.
 
-![alt text](.\img\Q24_graph.png)
+![alt text](/img/Q24_graph.png)
 
 **You discover that the total number of customer visits was 60,000, and that there were only 5,000 customer visits in August.**
 
@@ -558,7 +558,7 @@ https://docs.microsoft.com/en-us/power-bi/desktop-tutorial-create-measures
 
 ## Scenario: You have the following tables. There is a many-to-one relationship from Subscriber to Date that uses Subscriber[StartDate] and Date[Date]. The Cross filter direction of the relationship is set to Single.
 
-![alt text](.\img\Q25_tabel.png)
+![alt text](/img/Q25_tabel.png)
 
 ### Q.25 You plan to create a column chart that displays the following two measures:
 
@@ -604,7 +604,7 @@ You need to create a visualization based on the Power Pivot model as shown in th
 
 (Click the Exhibit button.)
 
-![alt text ](.\img\Q27_graph.png)
+![alt text ](/img/Q27_graph.png)
 
 Which type of visualization should you use?
 
@@ -624,11 +624,11 @@ References: https://docs.microsoft.com/en-us/power-bi/visuals/desktop-matrix-vis
 **You have a Microsoft SQL Server database that has the tables shown in the Database Diagram exhibit.**
 
 
-![alt text ](.\img\Q28_tables.png)
+![alt text ](/img/Q28_tables.png)
 
 You plan to develop a Power BI model as shown in the Power BI Model exhibit.
 
-![alt text](.\img\Q28_tabelmodel.png)
+![alt text](/img/Q28_tabelmodel.png)
 
 You plan to use Power BI to import data from 2013 to 2015.
 
@@ -665,18 +665,18 @@ You need to create a hierarchy that has Category, Subcategory, and Product.
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![alt text](.\img\Q28B_dragdrop.png)
+![alt text](/img/Q28B_dragdrop.png)
 
 **Answer**
 
-![alt_text](.\img\Q28_B_Answer.png)
+![alt_text](/img/Q28_B_Answer.png)
 
 References:
 https://intelligentsql.wordpress.com/2013/05/08/tabular-hierarchies-across-multiple-tables/ https://www.desertislesql.com/wordpress1/?p=1629
 
 ### Q.29 You need to add a measure to rank total sales by product. The results must appear as shown in the following table.
 
-![alt text](.\img\Q29_tableresult.png)
+![alt text](/img/Q29_tableresult.png)
 
 Which DAX formula should you use?
 
@@ -698,7 +698,7 @@ References: https://msdn.microsoft.com/en-us/library/gg492185.aspx
 
 Which DAX formula should you use?
 
-![alt text](.\img\Q30_options.png)
+![alt text](/img/Q30_options.png)
 
 **Correct answer is C**
 
@@ -707,7 +707,7 @@ References: https://msdn.microsoft.com/query-bi/dax/filter-function-dax
 
 ### Q. 31 You add another table named Territory to the model. A sample of the data is shown in the following table.
 
-![alt text ](.\img\Q30_table.png)
+![alt text ](/img/Q30_table.png)
 
 You need to create a relationship between the Territory table and the Sales table.
 
@@ -774,7 +774,7 @@ D. Edit the source of each table query.
 
 ### Q.34 You have a Power BI model that has a date table. A sample of the data shown in the following table.
 
-![alt text](.\img\Q34_table.png)
+![alt text](/img/Q34_table.png)
 
 You need to add a column to display the date in the format of December 01, 2014.
 
@@ -793,7 +793,7 @@ Refrence: https://docs.microsoft.com/en-us/dax/custom-date-and-time-formats-for-
 
 ### Q 35. From Power BI Desktop, you create a query that imports the following table.
 
-![alt text](.\img\Q35_table.png)
+![alt text](/img/Q35_table.png)
 
 What should you do?
 
@@ -813,7 +813,7 @@ References: https://msdn.microsoft.com/en-us/library/mt798301.aspx
 
 You have the files configured as shown in the following table.
 
-![alt text](.\img\Q36_table.png)
+![alt text](/img/Q36_table.png)
 
 You need to identify which files can be used as datasets.
 
@@ -934,7 +934,7 @@ Note: all the power BI developer APIs are availble in above link.
 
 ### Q.43. 
 
-![alt text](.\img\Q43_question.png)
+![alt text](/img/Q43_question.png)
 
 What should you do?
 
@@ -949,7 +949,7 @@ What should you do?
 **Correct answer is D**
 
 ### Q.44
-![alt text](.\img\Q44_Question.png)
+![alt text](/img/Q44_Question.png)
 
 
 You need to create a query that retrieves the Categories data and the Customers data.
@@ -1007,7 +1007,7 @@ What should you do first?
 
 In Power BI Desktop, you have the following query for the cube
 
-![alt text](.\img\Q46_query.png)
+![alt text](/img/Q46_query.png)
 
 The query retrieves 25,499 records.
 
@@ -1031,7 +1031,7 @@ note: Source contains all the records but due to remove duplicates step data row
 
 ### Q.47 You have a query that retrieves sales data. A sample of the data is shown in the following table.
 
-![alt text](.\img\Q47_table.png)
+![alt text](/img/Q47_table.png)
 
 You need to ensure that the values in the Date column contain a date. Null values must be replaced with the date from the previous row.
 
@@ -1099,10 +1099,10 @@ Reference: https://docs.microsoft.com/en-us/power-bi/desktop-bookmarks
     Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 Select and Place:
 
-![alt text](.\img\Q51_drop.png)
+![alt text](/img/Q51_drop.png)
 
 Asnwer:
-![alt text](.\img\Q51_dragAnswer.png)
+![alt text](/img/Q51_dragAnswer.png)
 
 References:
 https://powerbi.microsoft.com/en-us/blog/integrate-power-bi-reports-in-sharepoint-online/
@@ -1305,11 +1305,11 @@ Which license should you identify for each task? To answer, select the appropria
 NOTE: Each correct selection is worth one point.
 Hot Area:
 
-![alt text](.\img\Q61_graph.png)
+![alt text](/img/Q61_graph.png)
 
 Answer:
 
-![alt text](.\img\Q61_answer.png)
+![alt text](/img/Q61_answer.png)
 
 References:
 https://docs.microsoft.com/en-us/power-bi/service-create-distribute-apps https://docs.microsoft.com/en-us/power-bi/service-collaborate-power-bi-workspace
@@ -1321,24 +1321,24 @@ You need to ensure that the user can use both queries to receive the same result
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 Select and Place:
 
-![alt text](.\img\Q62_image.png)
+![alt text](/img/Q62_image.png)
 
 Answer: 6-5-3-4
 
-![alt text](.\img\Q62_answer.png)
+![alt text](/img/Q62_answer.png)
 
 
 ### Q.63
-![alt text](.\img\Q63_image1.png)
+![alt text](/img/Q63_image1.png)
 **Correct answer is**
-![alt text](.\img\Q63_ans_image.png)
+![alt text](/img/Q63_ans_image.png)
 
 References: https://msdn.microsoft.com/query-bi/dax/dateadd-function-dax
 
 ### Q.64 You are creating a report in Power BI Desktop.
 You are consuming the following tables.
 
-![alt text](.\img\Q64_image.png)
+![alt text](/img/Q64_image.png)
 
 
 You have a new table named Fiscal that has the same schema as the Date table, but contains the fiscal dates of your company.
@@ -1371,7 +1371,7 @@ Explanation: https://docs.microsoft.com/en-us/power-bi/service-admin-power-bi-ex
 
 ### Q.66 You have a Microsoft SQL Server database that contains the following tables
 
-![alt text](.\img\Q66_table.png)
+![alt text](/img/Q66_table.png)
 
 The following columns contain date information: 
     • Date[Month] in the mmyyyy format 
@@ -1459,10 +1459,10 @@ You need to display the month as a three-letter abbreviation, followed by the ye
 You add a calculated column in Power BI.
 Which DAX formula should you use for the calculated column? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.
 
-![alt text](.\img\Q66_E_dragdrop.png)
+![alt text](/img/Q66_E_dragdrop.png)
 
 **Answer**
-![alt text ](.\img\Q66_E_Answer.png)
+![alt text ](/img/Q66_E_Answer.png)
 
 References:
 https://docs.microsoft.com/en-us/dax/concatenate-function-dax#example-concatenation-of-columns-with-different-data-types https://docs.microsoft.com/en-us/dax/custom-date-and-time-formats-for-the-format-function
@@ -1497,7 +1497,7 @@ Does this meet the goal?
 
 ### Q.67(b). Solution: From Query Editor, open Advanced Editor and add the following query step.
 
-![alt text](.\img\Q67_B_question.png) 
+![alt text](/img/Q67_B_question.png) 
 
 Does this meet the goal?
 A. Yes
@@ -1510,14 +1510,14 @@ B. No
 
 ### Q.68. You create an app workspace named Wingtip Sales. Wingtip Sales is configured as shown in the following exhibit
 
-![alt text](.\img\Q68_image.png)
+![alt text](/img/Q68_image.png)
 
 Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic. NOTE: Each correct selection is worth one point
 
-![alt text](.\img\Q68_question.png)
+![alt text](/img/Q68_question.png)
 
 Answer: 
-![alt text](.\img\Q68_answer.png)
+![alt text](/img/Q68_answer.png)
 
 ### Q. 69 You plan to use Power BI Desktop optimized for Power BI Report Server to create a report.
  
@@ -1548,16 +1548,16 @@ NOTE. More than one order of answer choices is correct. You will receive credit 
 Select and Place:
 
 
-![alt text](.\img\Q70_question.png)
+![alt text](/img/Q70_question.png)
 
 **Answer**
-![alt text](.\img\Q70_answer.png)
+![alt text](/img/Q70_answer.png)
 
 References: https://docs.microsoft.com/en-us/power-bi/refresh-scheduled-refresh
 
 ##  Scenario: You have a Microsoft SQL Server database that contains the following tables.
 
-![alt text](.\img\Q70_tables.png)
+![alt text](/img/Q70_tables.png)
 
 The following columns contain date information:
     
@@ -1599,11 +1599,11 @@ The values after x in the phone-number column indicate the phone extension. You 
 
 How should you complete the query? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.
 
-![alt text](.\img\Q72_dragdrop.png)
+![alt text](/img/Q72_dragdrop.png)
 
 **Answer**
 
-![alt text](.\img\Q73_answer.png)
+![alt text](/img/Q73_answer.png)
 
 ### Q.74 You have an app workspace that contains a report. The report contains sensitive data. You need to ensure that you can embed the report into a custom application that will be accessed by external users. The external users will NOT have a Microsoft Azure Active Directory user account or Power BI licenses. Solution: Purchase Power BI Premium P1, and then configure the app workspace to run in a dedicated capacity. Does this meet the goal?
 
@@ -1630,10 +1630,10 @@ The solution must ensure that you can use Measure1 to display the count of produ
 How should you configure the relationships? To answer, select the appropriate options in the answer area.
 
 
-![alt text](.\img\Q74_Graphmodel.png)
+![alt text](/img/Q74_Graphmodel.png)
 
 **Answer**
-![alt text](.\img\Q74_Answer.png)
+![alt text](/img/Q74_Answer.png)
 
 Explanation: References: https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships 
 
@@ -1651,11 +1651,11 @@ References: https://docs.microsoft.com/en-us/power-bi/report-server/quickstart-c
 
 ### Q.76 You have a Microsoft SQL Server database that has the tables shown in the Database Diagram exhibit
 
-![alt text](.\img\Q76_tableSchema.png)
+![alt text](/img/Q76_tableSchema.png)
 
 You plan to develop a Power BI model as shown in the Power BI Model exhibit. (Click the Exhibit button.)
 
-![alt text](.\img\Q76_tablemodel.png)
+![alt text](/img/Q76_tablemodel.png)
 
 You plan to use Power BI to import data from 2013 to 2015.
 Product Subcategory[Subcategory] contains NULL values.
@@ -1665,10 +1665,10 @@ You need to edit the Product Category query to match the desired Power BI model.
 How should you complete the advanced query? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.
 
 
-![alt text](.\img\Q76_dragdrop.png)
+![alt text](/img/Q76_dragdrop.png)
 
 **Answer**
-![alt text](.\img\Q76_Answer.png)
+![alt text](/img/Q76_Answer.png)
 
 References:
 https://msdn.microsoft.com/en-us/library/mt260776.aspx
@@ -1689,7 +1689,7 @@ References: https://msdn.microsoft.com/en-us/library/ee634873.aspx
 
 ### Q.78 You have the following two tables: • Subscriber (SubscriberlD, Enroll mentDate, ServicePlan) • Date (Date, Month, Week, Year) There is a relationship between Subscriber [EnrollmentDate] and Date[Date]. You plan to create a KPI for the number of subscribers enrolled in the current year. You need to create a goal that is five percent more than the number of subscribers enrolled during the previous calendar year. How should you complete the DAX formula? 
 
-![alt text](.\img\Q78_dragdrop.png)
+![alt text](/img/Q78_dragdrop.png)
 
 **Answer: : CALCULATE, COUNT, PREVIOUSYEAR**
 
@@ -1698,10 +1698,10 @@ References: https://msdn.microsoft.com/en-us/library/hh272049(v=sql.110).aspx ht
 
 ### Q.79 You have three Power BI Desktop projects named Reportl.pbix, Report2.pbix, and Report3.pbix that have the following characteristics: • Report1.pbix contains a custom visualization. • Report2.pbix implements row-level security. • Report3.pbix connects to a Microsoft SQL Server database by using DirectQuery. Which reports support Publish to Web, and which reports can be published to Power BI Report Server? 
 
-![alt text](.\img\Q79_drapdrop.png)
+![alt text](/img/Q79_drapdrop.png)
 
 **Answer**
-![alt text](.\img\Q79_Answer.png)
+![alt text](/img/Q79_Answer.png)
 
 References:
 https
@@ -1749,23 +1749,23 @@ Does this meet the goal?
 
 
 ### Q.83 You need to create a measure to calculate a running total of TransactionQuantity.
-![alt text ](.\img\Q83_table.png)
+![alt text ](/img/Q83_table.png)
 
 How should you complete the DAX formula? To answer, select the appropriate options in the answer area.
 NOTE: Each correct selection is worth one point
 
-![alt text](.\img\Q83_question.png)
+![alt text](/img/Q83_question.png)
 
 **Answer:**
 
-![alt text](.\img\Q83_answer.png)
+![alt text](/img/Q83_answer.png)
 
 Explanation:
 References: http://www.daxpatterns.com/cumulative-total/
 
 ### Q 84. You have the datasets shown in the following graphic.
 
-![alt text](.\img\Q84_question.png)
+![alt text](/img/Q84_question.png)
 
 
 
@@ -1773,16 +1773,16 @@ References: http://www.daxpatterns.com/cumulative-total/
 
 ### Q.85.You need to create a measure named YTDPreviousSales that will be used in a table visualization. YTDPreviousSales must show the year-to-date (YTD) sales of the previous year for the same month. A sample of the desired data is shown in the following tabl
 
-![alt text](.\img\Q85_table.png)
+![alt text](/img/Q85_table.png)
 
 How should you complete the measure? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. NOTE: Each correct selection is worth one point
 
-![alt text](.\img\Q85_question.png)
+![alt text](/img/Q85_question.png)
 
 
 
 **Answer**
-![alt text](.\img\Q85_answer.png)
+![alt text](/img/Q85_answer.png)
 
 References:
 https://powerpivotpro.com/2016/01/year-to-date-in-previousprior-year/
@@ -1790,7 +1790,7 @@ https://powerpivotpro.com/2016/01/year-to-date-in-previousprior-year/
 
 ### Q. 86 QUESTION 5 From the Home tab in Power BI Desktop, you click Enter Data and create a table named Sales that contains the following data
 
-![alt text](.\img\Q86_tables.png)
+![alt text](/img/Q86_tables.png)
 
 What causes the visualization to display four rows of data instead of six?
 
@@ -1803,19 +1803,19 @@ What causes the visualization to display four rows of data instead of six?
 
 ### Q.87 You have a query that uses a Microsoft Excel data source. The data source contains the following table.
 
-![alt text](.\img\Q87_tablepivoted.png)
+![alt text](/img/Q87_tablepivoted.png)
 
 You need the data to appear as shown in the following table.
 
-![alt text](.\img\Q87_tableunpivoted.png)
+![alt text](/img/Q87_tableunpivoted.png)
 
 What should you do? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point.
 
-![alt text](.\img\Q87_image.png)
+![alt text](/img/Q87_image.png)
 
 **Correct Answer**
 
-![alt text](.\img\Q87_answerimage.png)
+![alt text](/img/Q87_answerimage.png)
 
 ### Q.88 You have a query that retrieves data from a Microsoft Azure SQL database.
 You discover that a column named ErrorCode has several values starting with a space character, and a column named SubStatus contains several non-printable characters.
@@ -1824,10 +1824,10 @@ What should you do on each column? To answer, select the appropriate options in 
 NOTE: Each correct selection is worth one point.
 Hot Area:
 
-![atl text](.\img\Q88_image.png)
+![atl text](/img/Q88_image.png)
 
 **Correct Answer**
-![atl text](.\img\Q88_answerimage.png)
+![atl text](/img/Q88_answerimage.png)
 
 References:
 https://msdn.microsoft.com/en-us/library/mt260494.aspx
@@ -1835,36 +1835,36 @@ https://msdn.microsoft.com/en-us/library/mt253328.aspx
 
 ### Q.87 You are creating a work schedule for a retail store. You have the following data from a query named Schedule.
 
-![alt text](.\img\Q89_question.png)
+![alt text](/img/Q89_question.png)
 
 You add a matrix visualization, and then you add Employee to the rows and Scheduled to columns. Which DAX formula should you use to create the measure that will display the checkboxes? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content
 
-![alt text](.\img\Q89_drapdrop.png)
+![alt text](/img/Q89_drapdrop.png)
 
 **Correct Answer**
 
-![alt text](.\img\Q89_answer_image.png)
+![alt text](/img/Q89_answer_image.png)
 
 ### Q.90 You have a query named FactlnternetSales used by several Power BI reports. The query is shown in the exhibit. (Click the Exhibit button.)
 
-![alt text](.\img\Q90_image.png)
+![alt text](/img/Q90_image.png)
 
 You plan to create a bar chart showing the count of sales by year that have a SalesAmount greater than $1,000. You need to create a measure that will be used in the bar chart. How should you complete the DAX formula? To answer, drag the appropriate values to the correct targets. Each value may be used once more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. NOTE: Each correct selection is worth one point.
 
-![alt text](.\img\Q90_image1.png)
+![alt text](/img/Q90_image1.png)
 
 **Correct Answer**
 
-![alt text](.\img\Q90_ans_image.png)
+![alt text](/img/Q90_ans_image.png)
 
 
 ### Q.91 You create a new app workspace. You add a user named Userl1 as a member of the workspace. Userl1 can edit content. You plan to create a report in an app workspace that uses data from a Microsoft Azure SQL database. You need to create the report. The solution must ensure that Userl1 can edit the report from Power BI Desktop and from powerbi.com. Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![alt text](.\img\Q91_image.png)
+![alt text](/img/Q91_image.png)
 
 **Correct Answer**
 
-![alt text](.\img\Q91_ans_image.png)
+![alt text](/img/Q91_ans_image.png)
 
 
 ### Q.92 You have a Power BI model that contains tables named Sales and Date. Sales contains four columns named SalesAmount, OrderDate, SalesPerson, and OrderID.
@@ -1874,16 +1874,16 @@ How should you complete the DAX formula?
 
 To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.
 
-![alt text](.\img\Q92_dragdrop.png)
+![alt text](/img/Q92_dragdrop.png)
 
 **Answer **
 
-![alt text](.\img\Q92_answer.png)
+![alt text](/img/Q92_answer.png)
 
 
 ### Q.93 You have a table named Sales. A sample of the data in Sales is shown in the following table.
 
-![alt text](.\img\Q93_table.png)
+![alt text](/img/Q93_table.png)
 
 **You create a stacked column chart visualization that displays ProductName by Date. You discover that the axis for the visualization displays all the individual dates. You need to ensure that the visualization displays ProductName by year and that you can drill down to see ProductName by week and day.**
 
@@ -1924,7 +1924,7 @@ References: https://docs.microsoft.com/en-us/power-bi/developer/integrate-report
 ### Q.96 You plan to create a report in Power BI Desktop.
 You have the following tables.
 
-![alt text](.\img\Q96_table.png)
+![alt text](/img/Q96_table.png)
 
 You have a measure that uses the following DAX formula.
 Total Sales = SUM('Sales'[SalesAmount])
@@ -1933,11 +1933,11 @@ You need to create a measure to calculate the percentage of TotalSales for each 
 How should you complete the DAX formula? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.
 
 
-![alt text](.\img\Q96_drapdrop.PNG)
+![alt text](/img/Q96_drapdrop.PNG)
 
 **Answer is as below**
 
-![alt text](.\img\Q96_answer.png)
+![alt text](/img/Q96_answer.png)
 
 References: https://support.office.com/en-us/article/when-to-use-calculated-columns-and-calculated-fields-ca18d63a-5b6d-4
 
@@ -1991,11 +1991,11 @@ References: https://support.office.com/en-us/article/when-to-use-calculated-colu
     **Correct answer is A**
 
 ### Q. 99 You have a table named Sales. Sales contains the data shown in the following table.
-![alt text](.\img\Q99_image.png)
+![alt text](/img/Q99_image.png)
 
 You have the following measure. Total Sales This Year = SUM([Total Sales]) You plan to create a KPI to compare the current yearly sales to the previous year as shown in the exhibit. (Click the Exhibit button.)
 
-![alt text](.\img\Q99_image1.png)
+![alt text](/img/Q99_image1.png)
 
 **Correct Answer is Calculate and dateadd**
 
@@ -2078,7 +2078,7 @@ What should you do?
 References: https://docs.microsoft.com/en-us/power-bi/desktop-use-directquery
 
 ### Q.104 You have a table named Sales. A sample of the data in Sales is shown in the following table.
-![alt text](.\img\Q104_image.png)
+![alt text](/img/Q104_image.png)
 
 You created a stacked column chart visualization that displays ProductName by Date.
 You discover that the axis for the visualization displays all the individual dates.
@@ -2101,7 +2101,7 @@ References: https://docs.microsoft.com/en-us/power-bi/power-bi-report-add-filter
 
 ### Q.105 You have a customer table in Power BI Desktop. The customer table contains the columns as shown in the following table
 
-![alt text](.\img\Q105_table.png)
+![alt text](/img/Q105_table.png)
 
 You need to create a custom column that hides the first three digits of the SSN. The values in the new column must have the xxx-99-9999 format.
 How should you complete the Query Editor formula? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.
@@ -2110,7 +2110,7 @@ How should you complete the Query Editor formula? To answer, drag the appropriat
 
 **Answer**
 
-![alt text](.\img\Q105_answer.png)
+![alt text](/img/Q105_answer.png)
 
 References:
 https://msdn.microsoft.com/query-bi/m/text-replace
@@ -2119,10 +2119,10 @@ https://msdn.microsoft.com/en-us/query-bi/m/text-start
 
 ### Q.106 You have the report shown in the following exhibit.
 
-![alt text](.\img\Q106_Question.png)
+![alt text](/img/Q106_Question.png)
 Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic
 
-![alt text](.\img\Q106_image.png)
+![alt text](/img/Q106_image.png)
 
 **Answer**
  New table, 0.5
@@ -2131,17 +2131,17 @@ Use the drop-down menus to select the answer choice that completes each statemen
 ### Q.107  HOTSPOT
 You open the Power BI Admin portal as shown in the following graphic.
 
-![alt text](.\img\Q107_image.png)
+![alt text](/img/Q107_image.png)
 
 All the app workspaces use the customer's capacity.
 Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic.
 
 
-![alt text](.\img\Q107_question.png)
+![alt text](/img/Q107_question.png)
 
 **Answer**
 
-![alt text](.\img\Q107_Answer.png)
+![alt text](/img/Q107_Answer.png)
 
 References:
 https://docs.microsoft.com/en-us/azure/power-bi-embedded/scale-capacity https://docs.microsoft.com/en-us/power-bi/developer/embed-sample-for-customers
@@ -2177,7 +2177,7 @@ https://docs.microsoft.com/en-us/power-bi/developer/walkthrough-push-data-regist
 
 ### Q.109 You have a property named FactInternetSales used by several Power BI reports. The query is shown in the exhibit. (Click the Exhibit button.)
 
-![alt text](.\img\Q109_questionImage.png)
+![alt text](/img/Q109_questionImage.png)
 
 You plan to create a bar chart showing the count of sales by year that have a SalesAmount greater than $1,000.
 You need to create a measure that will be used in the bar chart.
@@ -2208,7 +2208,7 @@ Reference: https://docs.microsoft.com/en-us/power-bi/developer/embedded/embedded
  
 ### Q. 111 You are creating a report in Power BI Desktop that has two visualizations on a page as shown in the following exhibi
 
-![alt text](.\img\Q_111_question.png)
+![alt text](/img/Q_111_question.png)
 
 You need to ensure that when you click the bar of a country, only the values for that country are shown on the Revenue by Year and Manufacturer chart.
 
@@ -2253,13 +2253,13 @@ How should you configure the connection to the data source?
 
 ### Q. 114 You open powerbi.com as shown in the following exhibit.
 
-![alt text](.\img\Q114_Image.png)
+![alt text](/img/Q114_Image.png)
 Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic.
 
-![alt text ](.\img\Q114_question.png)
+![alt text ](/img/Q114_question.png)
 
 **Answer**
-![alt text](.\img\Q114_answer.png)
+![alt text](/img/Q114_answer.png)
 
 References:
 https://biinsight.com/data-classification-in-power-bi/
@@ -2270,10 +2270,10 @@ You plan to create a report in an app workspace that uses data from a Microsoft 
 You need to create the report. The solution must ensure that User1 can edit the report from Power BI Desktop and from powerbi.com.
 Which three actions should you perform in sequence? To answer, move the appropriate action from the list of actions to the answer area and arrange them in the correct order.
 
-![alt text](.\img\Q115_question.png)
+![alt text](/img/Q115_question.png)
 
 **Answer**
-![alt text](.\img\Q115_answer.png)
+![alt text](/img/Q115_answer.png)
 
 References:
 https://docs.microsoft.com/en-us/power-bi/desktop-report-lifecycle-datasets
@@ -2281,15 +2281,15 @@ https://docs.microsoft.com/en-us/power-bi/desktop-report-lifecycle-datasets
 
 ### Q.116 You have the following tables
 
-![alt text](.\img\Q116_Table.png)
+![alt text](/img/Q116_Table.png)
 
 You need to create a new table that displays the top 10 customers by the total of SalesAmount.
 How should you complete the DAX formula? To answer, select the appropriate options in the answer area.
 
-![alt text](.\img\Q116_question.png)
+![alt text](/img/Q116_question.png)
 
 **Answer**
-![alt text](.\img\Q116_answer.png)
+![alt text](/img/Q116_answer.png)
 
 ### Q.117 You plan to join a fact table named ActivityLog to a Date dimension named ActivityDate. The date value in ActivityLog is a datetime column named ActivityStart.
 The date value in ActivityDate is a number column named DateID. DateID is in the YYYYMMDD format.
@@ -2304,7 +2304,7 @@ What should you do in the model before you create the relationship?
 
 ### Q 118 You have a table in Power BI Desktop as shown in the following exhibit
 
-![alt text](.\img\Q118_table.png)
+![alt text](/img/Q118_table.png)
 
 You need to resolve the error in row 3. The solution must preserve all the data.
 What should you do?
@@ -2317,20 +2317,20 @@ What should you do?
 **Correct answer is C**
 
 ### Q.118 You have a query that uses a Microsoft Excel data source. The data source contains the following table.
-![alt text](.\img\Q118_image.png)
+![alt text](/img/Q118_image.png)
 
 What should you do? To answer, select the appropriate options in the answer area.
 NOTE: Each correct selection is worth one point.
 
-![alt text](.\img\Q118_question.png)
+![alt text](/img/Q118_question.png)
 
 **Correct answer**
 
-![alt text](.\img\Q118_ans.png)
+![alt text](/img/Q118_ans.png)
 
 ### Q.119 You attempt to publish a Microsoft Excel file to Power BI, and you receive the error message shown in the exhibit. (Click the Exhibit button.)
 
-![alt text](.\img\Q119_image.png)
+![alt text](/img/Q119_image.png)
 
 The file is in c:\data\.
 You need to ensure that you can publish the file to Power BI.
@@ -2362,7 +2362,7 @@ What should you do?
  **Correct Answer is A**
 
  ### Q.121 You have two tables named Customer and Orders. A sample of the Data in Customer is shown in the following table.
- ![alt text](.\img\Q121_image.png)
+ ![alt text](/img/Q121_image.png)
 
 You must use Customer as the first table.
 Which join kind should you use?
@@ -2376,13 +2376,13 @@ Which join kind should you use?
 **Correct Answer is D**
 
 ### Q.122 You are configuring the relationships between the following tables.
-![alt text](.\img\Q122_table.png)
+![alt text](/img/Q122_table.png)
 
 A customer can have multiple accounts. An account can only be associated to one customer. Each account is associated to only one insurance policy.
 You need to configure the relationships between the tables to ensure that you can create a report displaying customers and their associated insurance policies.
 How should you configure each relationship? To answer, drag the appropriate cardinalities to the correct relationships. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.
 
-![alt text](.\img\Q122_question.png)
+![alt text](/img/Q122_question.png)
 
 **Answer**
 
@@ -2393,7 +2393,7 @@ How should you configure each relationship? To answer, drag the appropriate card
 
 ### Q.123 You have a Power BI Desktop project that has the model shown in the exhibit. (Click the Exhibit tab.)
 
-![alt text](.\img\Q123_image.png)
+![alt text](/img/Q123_image.png)
 
 Customer Count is a measure that uses the CountRows function to calculate the number of customers.
 You create a table visualization that displays ProductID, Product, and Customer Count.
@@ -2414,22 +2414,22 @@ You need to provide a detailed sales report to several managers.
 From the Power BI service, you create an app workspace named SalesWorkspace.
 Which three actions should you perform in sequence next? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![alt text](.\img\Q125_question.png)
+![alt text](/img/Q125_question.png)
 
 **Answer**
-![alt text](.\img\Q125_answer.png)
+![alt text](/img/Q125_answer.png)
 
 
 ### Q.126 You need to create a measure named YTDPreviousSales that will be used in a table visualization. YTDPreviousSales must show the year-to-date (YTD) sales of the previous year for the same month. A sample of the desired data is shown in the following table.
 
-![alt text](.\img\Q126_table.png)
+![alt text](/img/Q126_table.png)
 
 How should you complete the measure? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.
 
-![alt text](.\img\Q126_dragdrop.png)
+![alt text](/img/Q126_dragdrop.png)
 
 **Answer**
-![alt text ](.\img\Q126_answer.png)
+![alt text ](/img/Q126_answer.png)
 
 References:
 https://powerpivotpro.com/2016/01/year-to-date-in-previousprior-year/
@@ -2448,23 +2448,23 @@ What should you do?
  
 
 ### Q.127 You have a report in Power BI Desktop as shown in the following exhibit.
-![alt text](.\img\Q126_image.png)
+![alt text](/img/Q126_image.png)
 
 Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic.
 Note: Each correct selection is worth one point.
 
-![alt text](.\img\Q127_image1.png)
+![alt text](/img/Q127_image1.png)
 **Correct answer**
-![alt text](.\img\Q127_answer_image.png)
+![alt text](/img/Q127_answer_image.png)
 
 
 ### Q.128 You have the following table named Location.
-![alt text](.\img\Q128_image.png)
+![alt text](/img/Q128_image.png)
 
 The GeoCode column represents the country where each customer is located.
 You create a map visualization as shown in the exhibit. (Click the Exhibit tab.)
 
-![alt text](.\img\Q128_image1.png)
+![alt text](/img/Q128_image1.png)
 
 You need to ensure that the map displays the country locations.
 What should you do?
@@ -2491,19 +2491,19 @@ You have a Power BI model that contains a table named Sales. Sales has the follo
 
 You need to create the following visualization.
 
-![alt text](.\img\Q129_image.png)
+![alt text](/img/Q129_image.png)
 NOTE: Each correct selection is worth one point.
 Select and Place:
 
 **Correct Answer**
 
-![alt text](.\img\Q129_ans_image.png)
+![alt text](/img/Q129_ans_image.png)
 
 https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-radial-gauge-charts
 
 ### Q.130 You are creating reports in Power BI Desktop. The model has the following tables.
 
-![alt text](.\img\Q130_image.png)
+![alt text](/img/Q130_image.png)
 
 There is a relationship between the tables.
 
@@ -2513,23 +2513,23 @@ You need to ensure that only the columns required for the report appear in Repor
 How should you configure the columns in Power BI Desktop? To answer, select the appropriate options in the answer area.
 NOTE: Each correct selection is worth one point.
 
-![alt text](.\img\Q130_image1.png)
+![alt text](/img/Q130_image1.png)
 
 **Correct Answer**
-![alt text](.\img\Q130_img_ans.png)
+![alt text](/img/Q130_img_ans.png)
 
 
 ### Q.131 You have a table that contains a column named Phone. The following is a sample of the data in the Phone column.
-![alt text](.\img\Q131_image.png)
+![alt text](/img/Q131_image.png)
 .
 How should you complete the Query Editor formula? To answer, select the appropriate options in the answer area.
 NOTE: Each correct selection is worth one point.
 Hot Area:
-![alt text](.\img\Q131_image1.png)
+![alt text](/img/Q131_image1.png)
 
 **Correct Answer**
 
-![alt text](.\img\Q131_image_ans.png)
+![alt text](/img/Q131_image_ans.png)
 
 ### Q.132  This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.
