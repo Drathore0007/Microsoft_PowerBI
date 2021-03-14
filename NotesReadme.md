@@ -58,7 +58,7 @@ Dax Data types * :
 
 Dax math Functions: 
 
-![alt text](./img/DaxMathFunction.png)
+![alt text](\img\DaxMathFunction.PNG)
 
 
 * LOOKUPVALUE: A dax function to bring value by using many to one relation.
@@ -433,16 +433,16 @@ iteration function have suffix "X" amd are as follow:-
 
 * Calculated columns are materialized so its consumes more disk space and RAM, on other hand measures are calculated at query time, which means measures recalculate its value everytime so its comsumes CPU resources.
 
-    ![alt text](.\img\MeasureVsCalculatedColumns.png)
+    ![alt text](.\img\MeasureVsCalculatedColumns.PNG)
 
 * Using calculate in measures:
 
-    ![alt text](.\img\Calculate_In_Measure.png)
+    ![alt text](.\img\Calculate_In_Measure.PNG)
 
 
     Applying Filter condition in three different approach.
 
-    ![alt text](.\img\CalculateMeasureFilter.png)
+    ![alt text](.\img\CalculateMeasureFilter.PNG)
 
 
 * ALLSELECTED: function works same as ALL but accept single argumnet as table or columns oject.
@@ -455,15 +455,15 @@ iteration function have suffix "X" amd are as follow:-
 
 * Opening Profit Dax functions.
 
-    ![alt text](.\img\OpeningPRofitDax.png)
+    ![alt text](.\img\OpeningPRofitDax.PNG)
 
     Example can be seen as below.
 
-    ![alt text ](.\img\OpeningProfitexampl.png)
+    ![alt text ](.\img\OpeningProfitexampl.PNG)
 
 
     Other Date functions:
-    ![alt text](.\img\DateFunctions.png)
+    ![alt text](.\img\DateFunctions.PNG)
 
 
         Syntex:
@@ -691,7 +691,7 @@ Refference link:- https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-vis
 
 ### Maps in Power BI
 
-![alt text](.\img\MapInPowerBI.png)
+![alt text](.\img\MapInPowerBI.PNG)
 
 Types of map:- map, filled map and shape map
 
